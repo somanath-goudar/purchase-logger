@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://bgmit:bgmit@purchaselogger.kfr5f.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
